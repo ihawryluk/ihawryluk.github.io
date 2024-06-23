@@ -11,12 +11,27 @@ redirect_from:
 My CV can also be downloaded [here](https://ihawryluk.github.io/files/cv_hawryluk_23062024.pdf).
 
 
+Core Skills
+======
+
+**Programming:**  
+Python, C++, R, Matlab, Mathematica, Bash, Git, SQL, Spark
+
+**Libraries:**  
+PyTorch, Tensorflow, Pandas, scikit-learn, NumPy, Matplotlib, Stan, NumPyro
+
+**Interests:**  
+Machine Learning, Deep Learning, Data Science, Probabilistic Programming,  
+Bayesian Statistics, Mathematical Modelling, Computer Vision
+
+
 Education
 ======
 * PhD in Epidemiology of Infectious Diseases, Imperial College London, UK, 2020-2024
 * MRes in Epidemiology of Infectious Diseases, Imperial College London, UK, 2019-2020
 * MSc in Applied Mathematics, University of Helsinki, Finland, 2015-2017
 * BSc in Mathematics, University of Wroclaw, Poland, 2012-2015
+
 
 Work experience
 ======
@@ -57,18 +72,14 @@ Work experience
 - Development of a machine learning model for heart attack survival prediction
 - Processing and development of a segmentation pipeline for brain MRI scans
 
-Core Skills
+
+Languages
 ======
 
-**Programming:**  
-Python, C++, R, Matlab, Mathematica, Bash, Git, SQL, Spark
-
-**Libraries:**  
-PyTorch, Tensorflow, Pandas, scikit-learn, NumPy, Matplotlib, Stan, NumPyro
-
-**Interests:**  
-Machine Learning, Deep Learning, Data Science, Probabilistic Programming,  
-Bayesian Statistics, Mathematical Modelling, Computer Vision
+- English: fluent
+- Polish: native
+- German: intermediate
+- Finnish, Spanish: basic
 
 
 Scholarships and Awards
@@ -91,6 +102,8 @@ University's Principal Scholarship for most talented students
 
 **Wroclaw, 2012-2015**  
 "Mathematics without borders" scholarship for most talented students
+
+
 
 Activities
 ======
