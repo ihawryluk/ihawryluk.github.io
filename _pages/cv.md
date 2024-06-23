@@ -12,7 +12,6 @@ My CV can also be downloaded [here](https://ihawryluk.github.io/files/cv_hawrylu
 
 
 ## Core Skills
-======
 
 **Programming:**  
 Python, C++, R, Matlab, Mathematica, Bash, Git, SQL, Spark
@@ -26,7 +25,7 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 
 
 ## Education
-======
+
 * PhD in Epidemiology of Infectious Diseases, Imperial College London, UK, 2020-2024
 * MRes in Epidemiology of Infectious Diseases, Imperial College London, UK, 2019-2020
 * MSc in Applied Mathematics, University of Helsinki, Finland, 2015-2017
@@ -34,7 +33,6 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 
 
 ## Work experience
-======
 
 **May 2024 - present**  
 **Postdoctoral Research Associate at Imperial College London**, ongoing, UK  
@@ -74,7 +72,6 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 
 
 ## Languages
-======
 
 - English: fluent
 - Polish: native
@@ -83,7 +80,6 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 
 
 ## Scholarships and Awards
-======
 
 **London, 2019-2024**  
 Medical Research Council Fund, Imperial College London  
@@ -106,7 +102,6 @@ University's Principal Scholarship for most talented students
 
 
 ## Activities
-======
 
 **2021-2022**  
 Co-organiser at the Earth Observation Network of Excellence of Imperial College London
@@ -129,7 +124,6 @@ Teaching Assistant at a Python programming workshop for medical students
 
   
 ## Talks
-======
 
 **May 2024**  
 Machine Learning and Global Health network meeting (talk)
@@ -153,7 +147,6 @@ Science: Polish Perspectives 2021 conference (talk)
 
   
 ## Selected Publications
-======
 
 1. I. Hawryluk et al. Inference of COVID-19 epidemiological distributions from Brazilian hospital data. *Journal of The Royal Society Interface*, 17(172):20200596, 2020. [URL](https://doi.org/10.1098/rsif.2020.0596)
 
