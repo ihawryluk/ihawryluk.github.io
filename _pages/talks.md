@@ -8,7 +8,7 @@ author_profile: true
 
 
 **May 2024**  
-Machine Learning and Global Health Network meeting
+Machine Learning and Global Health Network meeting (talk)
 
 *University of Bristol, UK*
 

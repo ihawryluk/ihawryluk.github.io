@@ -27,8 +27,7 @@ Published in Proceedings of the Thirty-Seventh Conference on Uncertainty in Arti
 
 [paper](https://proceedings.mlr.press/v161/hawryluk21a.html)
 
-<!-- [code](https://github.com/ihawryluk/GP_nowcasting) -->
-[![code on github](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/ihawryluk/GP_nowcasting)
+[code](https://github.com/ihawryluk/GP_nowcasting)
 
 tech: Python, Stan, R, Pandas, Matplotlib
 
@@ -82,7 +81,7 @@ tech: Python, NumPyro, Pandas, Matplotlib, Spark, SQL
 
 
 
-*The projects listed below are project I substantially contributed to but did not lead*
+*The projects listed below are projects I substantially contributed to but did not lead.*
 
 
 
