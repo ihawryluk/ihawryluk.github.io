@@ -7,7 +7,6 @@ author_profile: true
 
 
 ## Phd Thesis
-======
 My PhD thesis can be viewed [here](https://github.com/ihawryluk/phd_thesis/blob/main/hawryluk_phd_thesis.pdf).
 
 
@@ -23,7 +22,6 @@ The methods proposed here aim to assist infectious disease modellers in rapidly 
 *The three following project listed below are part of my PhD thesis.*
  
 ## Gaussian process nowcasting: application to COVID-19 mortality reporting
-======
 
 
 Updating observations of a signal due to the delays in the measurement process is a common problem in signal processing, with prominent examples in a wide range of fields. An important example of this problem is the nowcasting of COVID-19 mortality: given a stream of reported counts of daily deaths, can we correct for the delays in reporting to paint an accurate picture of the present, with uncertainty? Without this correction, raw data will often mislead by suggesting an improving situation. We present a flexible approach using a latent Gaussian process that is capable of describing the changing auto-correlation structure present in the reporting time-delay surface. This approach also yields robust estimates of uncertainty for the estimated nowcasted numbers of deaths. We test assumptions in model specification such as the choice of kernel or hyper priors, and evaluate model performance on a challenging real dataset from Brazil. Our experiments show that Gaussian process nowcasting performs favourably against both comparable methods, and against a small sample of expert human predictions. Our approach has substantial practical utility in disease modelling — by applying our approach to COVID-19 mortality data from Brazil, where reporting delays are large, we can make informative predictions on important epidemiological quantities such as the current effective reproduction number.
