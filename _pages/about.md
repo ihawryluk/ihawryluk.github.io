@@ -17,4 +17,28 @@ Outside of academia I've worked as a Data Scientist in few different industries:
 
 Work and research interests
 ======
+- Machine Learning
+- Deep Learning
+- Modern Statistics
+- Bayesian Statistics
+- Mathematical Modelling
+- Probabilistic Programming
 
+- Gaussian Processes
+- Computer Vision
+- Anomaly detection
+- Public Health
+- Infectious Disease Epidemics
+
+
+More details on the projects I worked on can be found in the [Projects tab](https://ihawryluk.github.io/projects/).
+
+
+
+Background
+======
+I hold a PhD in Infectious Disease Epidemiology from Imperial College London (2024). I also got an MSc in Applied Mathematics from University of Helsinki and a BSc in Mathematics from University of Wroclaw.
+
+I have 2+ years of experience of working in the industry as a Research Data Scientist.
+
+More details in the [CV tab](https://ihawryluk.github.io/cv/).
