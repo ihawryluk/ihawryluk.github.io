@@ -10,7 +10,7 @@
 locale                   : "en-UK"
 title                    : "Iwona Hawryluk"
 title_separator          : "-"
-name                     : &name "Iwona Hawryluk, PhD"
+name                     : &name "Iwona Hawryluk"
 description              : &description "personal description"
 url                      : https://ihawryluk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "ihawryluk/ihawryluk.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Iwona Hawryluk"
+  name             : "Iwona Hawryluk, PhD"
   pronouns         : "she/her"  
   bio              : "Mathematical modeller, Data Scientist, Researcher"
   location         : "London, UK"

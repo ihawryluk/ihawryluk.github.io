@@ -12,16 +12,16 @@ My PhD thesis can be viewed [here](https://github.com/ihawryluk/phd_thesis/blob/
 
 
 
-The emergence and rapid spread of the COVID-19 pandemic underscored the critical need for innovative approaches to infectious disease modelling. This thesis addresses this imperative by developing novel methods to enhance the accuracy and reliability of epidemiological models, particularly in the context of emerging pathogens such as SARS-CoV-2. One of the challenges faced by epidemiological modellers during outbreaks of novel pathogens was the urgent need for fast and accurate modelling with limited and lagged data. Motivated by these challenges, this thesis aims to develop methods to aid epidemiologists in building more robust models.
+<!-- The emergence and rapid spread of the COVID-19 pandemic underscored the critical need for innovative approaches to infectious disease modelling. This thesis addresses this imperative by developing novel methods to enhance the accuracy and reliability of epidemiological models, particularly in the context of emerging pathogens such as SARS-CoV-2. One of the challenges faced by epidemiological modellers during outbreaks of novel pathogens was the urgent need for fast and accurate modelling with limited and lagged data. Motivated by these challenges, this thesis aims to develop methods to aid epidemiologists in building more robust models.
 
 Chapter 2 introduces a new method for estimating marginal likelihoods using thermodynamic integration, facilitating model selection through Bayes factors. Applied to COVID-19 data, this approach reveals the pitfalls of model selection and emphasises the importance of rigorous methods. In Chapter 3, a range of probability density functions is fitted to hospitalisation distributions for COVID-19 patients in Brazil, providing crucial inputs for epidemic models. Spatial heterogeneity in hospitalisation times is explored, offering insights into regional variations in disease dynamics. Chapter 4 shifts focus to data quality, investigating reporting delays in COVID-19 mortality data for Brazil. A novel method using Gaussian Processes is proposed to correct reporting delays, enabling real-time monitoring of epidemiological trends with greater accuracy. Building on these methodological advancements, Chapter 5 explores the impact of regularisation in a renewal-equation-based $R_t$ model, demonstrating the importance of informative priors in accurately estimating importations during emerging epidemics.
 
 The methods proposed here aim to assist infectious disease modellers in rapidly responding to emerging threats using tools from modern statistics. While significant progress has been made, this thesis also addresses limitations and identifies avenues for future research, underscoring the ongoing importance of collaborative efforts to advance epidemiological modelling in response to emerging threats.
 
+-->
 
 *The three following project listed below are part of my PhD thesis.*
-
-
+ 
 Gaussian process nowcasting: application to COVID-19 mortality reporting
 ======
 
