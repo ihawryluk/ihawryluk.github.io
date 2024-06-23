@@ -23,7 +23,6 @@ Work and research interests
 - Bayesian Statistics
 - Mathematical Modelling
 - Probabilistic Programming
-
 - Gaussian Processes
 - Computer Vision
 - Anomaly detection
