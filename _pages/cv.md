@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+My CV can also be downloaded [here](https://ihawryluk.github.io/files/cv_hawryluk_23062024.pdf).
+
 
 Education
 ======
