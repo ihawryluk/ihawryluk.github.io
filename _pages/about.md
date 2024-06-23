@@ -31,7 +31,7 @@ Work and research interests
 - Infectious Disease Epidemics
 
 
-More details on the projects I worked on can be found in the [Projects tab](https://ihawryluk.github.io/projects/).
+Details on the projects I worked on can be found in the [Projects tab](https://ihawryluk.github.io/projects/).
 
 
 
