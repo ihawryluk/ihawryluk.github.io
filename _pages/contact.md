@@ -5,17 +5,14 @@ author_profile: true
 ---
 
 
-Contact
-======
 
 I'm currently based in London, UK.
 
-email: iwo.hawryluk@gmail.com
+email: iwo.hawryluk [at] gmail.com
 
-linkedIn:
+[linkedIn](https://www.linkedin.com/in/iwonahawryluk/)
 
-google scholar:
+[google scholar](https://scholar.google.co.uk/citations?user=brpJvU4AAAAJ&hl=en)
 
-twitter: @iwonahaw
-
+[github](https://github.com/ihawryluk)
 
