@@ -126,6 +126,7 @@ Teaching Assistant at a Python programming workshop for medical students
 ## Talks <img src="https://img.icons8.com/?size=100&id=b3pmakv2kPti&format=png&color=000000" width="30" height="30" alt="Presentation"/>
 
 See the [Talks tab.](https://ihawryluk.github.io/talks/)
+
 <!-- **May 2024**  
 Machine Learning and Global Health network meeting (talk)
 
