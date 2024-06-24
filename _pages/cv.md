@@ -125,7 +125,8 @@ Teaching Assistant at a Python programming workshop for medical students
   
 ## Talks <img src="https://img.icons8.com/?size=100&id=b3pmakv2kPti&format=png&color=000000" width="30" height="30" alt="Presentation"/>
 
-**May 2024**  
+See the [Talks tab.](https://ihawryluk.github.io/talks/)
+<!-- **May 2024**  
 Machine Learning and Global Health network meeting (talk)
 
 **May 2023**  
@@ -143,12 +144,14 @@ European Space Agency: ML for Earth Observation workshop (poster)
 Uncertainty in Artificial Intelligence conference (talk)
 
 **May 2021**  
-Science: Polish Perspectives 2021 conference (talk)
+Science: Polish Perspectives 2021 conference (talk) -->
 
   
 ## Selected Publications <img src="https://img.icons8.com/?size=100&id=NdcRE4GyXwnl&format=png&color=000000" width="30" height="30" alt="Magazine"/>
 
-1. I. Hawryluk et al. Inference of COVID-19 epidemiological distributions from Brazilian hospital data. *Journal of The Royal Society Interface*, 17(172):20200596, 2020. [URL](https://doi.org/10.1098/rsif.2020.0596)
+See the [Publications tab.](https://ihawryluk.github.io/publications/)
+
+<!-- 1. I. Hawryluk et al. Inference of COVID-19 epidemiological distributions from Brazilian hospital data. *Journal of The Royal Society Interface*, 17(172):20200596, 2020. [URL](https://doi.org/10.1098/rsif.2020.0596)
 
 2. I. Hawryluk et al. Gaussian Process Nowcasting: Application to COVID-19 Mortality Reporting. *UAI 2021. PLMR*, 2021. [URL](https://proceedings.mlr.press/v161/hawryluk21a.html)
 
@@ -160,5 +163,5 @@ Science: Polish Perspectives 2021 conference (talk)
 
 6. H. Wilde, T. Mellan, I. Hawryluk, et al. The association between mechanical ventilator compatible bed occupancy and mortality risk in intensive care patients with COVID-19: a national retrospective cohort study. *BMC Medicine*, 2021. [URL](https://doi.org/10.1186/s12916-021-02096-0)
 
-
+ -->
   
