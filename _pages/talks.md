@@ -20,7 +20,7 @@ International Conference on Learning Representations (ICLR) ML for Global Health
 
 
 **Feb 2023**  
-AAAI Artificial Intelligence for Cybersecurity workshop (talk)
+AAAI Artificial Intelligence for Cybersecurity workshop (talk) [slides](https://ihawryluk.github.io/files/AiCS_presentation.pdf)
 
 *Washington DC, USA, remote*
 
@@ -40,13 +40,13 @@ European Space Agency: ML for Earth Observation workshop (poster)
 
 
 **July 2021**  
-Uncertainty in Artificial Intelligence conference (talk)
+Uncertainty in Artificial Intelligence conference (talk) [slides](https://ihawryluk.github.io/files/nowcasting_slides.pdf)
 
 *remote*
 
 
 **May 2021**  
-Science: Polish Perspectives 2021 conference (talk)
+Science: Polish Perspectives 2021 conference (talk) [slides](https://ihawryluk.github.io/files/nowcasting_SPP.pdf)
 
 *remote*
   
