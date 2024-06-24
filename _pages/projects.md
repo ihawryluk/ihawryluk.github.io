@@ -4,34 +4,22 @@ title: "Projects"
 author_profile: true
 ---
 
-
-
 ## Phd Thesis
 My PhD thesis can be viewed [here](https://github.com/ihawryluk/phd_thesis/blob/main/hawryluk_phd_thesis.pdf).
 
-<!-- The emergence and rapid spread of the COVID-19 pandemic underscored the critical need for innovative approaches to infectious disease modelling. This thesis addresses this imperative by developing novel methods to enhance the accuracy and reliability of epidemiological models, particularly in the context of emerging pathogens such as SARS-CoV-2. One of the challenges faced by epidemiological modellers during outbreaks of novel pathogens was the urgent need for fast and accurate modelling with limited and lagged data. Motivated by these challenges, this thesis aims to develop methods to aid epidemiologists in building more robust models.
+*The three following projects listed below are part of my PhD thesis.*
 
-Chapter 2 introduces a new method for estimating marginal likelihoods using thermodynamic integration, facilitating model selection through Bayes factors. Applied to COVID-19 data, this approach reveals the pitfalls of model selection and emphasises the importance of rigorous methods. In Chapter 3, a range of probability density functions is fitted to hospitalisation distributions for COVID-19 patients in Brazil, providing crucial inputs for epidemic models. Spatial heterogeneity in hospitalisation times is explored, offering insights into regional variations in disease dynamics. Chapter 4 shifts focus to data quality, investigating reporting delays in COVID-19 mortality data for Brazil. A novel method using Gaussian Processes is proposed to correct reporting delays, enabling real-time monitoring of epidemiological trends with greater accuracy. Building on these methodological advancements, Chapter 5 explores the impact of regularisation in a renewal-equation-based $R_t$ model, demonstrating the importance of informative priors in accurately estimating importations during emerging epidemics.
-
-The methods proposed here aim to assist infectious disease modellers in rapidly responding to emerging threats using tools from modern statistics. While significant progress has been made, this thesis also addresses limitations and identifies avenues for future research, underscoring the ongoing importance of collaborative efforts to advance epidemiological modelling in response to emerging threats.
-
--->
-
-*The three following project listed below are part of my PhD thesis.*
- 
 ## Gaussian process nowcasting: application to COVID-19 mortality reporting
 
 Updating observations of a signal due to the delays in the measurement process is a common problem in signal processing, with prominent examples in a wide range of fields. An important example of this problem is the nowcasting of COVID-19 mortality: given a stream of reported counts of daily deaths, can we correct for the delays in reporting to paint an accurate picture of the present, with uncertainty? Without this correction, raw data will often mislead by suggesting an improving situation. We present a flexible approach using a latent Gaussian process that is capable of describing the changing auto-correlation structure present in the reporting time-delay surface. This approach also yields robust estimates of uncertainty for the estimated nowcasted numbers of deaths. We test assumptions in model specification such as the choice of kernel or hyper priors, and evaluate model performance on a challenging real dataset from Brazil. Our experiments show that Gaussian process nowcasting performs favourably against both comparable methods, and against a small sample of expert human predictions. Our approach has substantial practical utility in disease modelling — by applying our approach to COVID-19 mortality data from Brazil, where reporting delays are large, we can make informative predictions on important epidemiological quantities such as the current effective reproduction number.
 
 Published in Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence.
 
-[paper](https://proceedings.mlr.press/v161/hawryluk21a.html)
+[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://proceedings.mlr.press/v161/hawryluk21a.html)
 
-[code](https://github.com/ihawryluk/GP_nowcasting)
+[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/ihawryluk/GP_nowcasting)
 
-tech: Python, Stan, R, Pandas, Matplotlib
-
-
+Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Stan, R, Pandas, Matplotlib
 
 ## Inference of COVID-19 epidemiological distributions from Brazilian hospital data
 
@@ -39,14 +27,11 @@ Knowing COVID-19 epidemiological distributions, such as the time from patient ad
 
 Published in Journal of the Royal Society Interface.
 
-[paper](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0596)
+[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0596)
 
-[code](https://github.com/mrc-ide/Brazil_COVID19_distributions)
+[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/mrc-ide/Brazil_COVID19_distributions)
 
-
-tech: Python, Stan, R, Pandas, Matplotlib, scikit-learn
-
-
+Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Stan, R, Pandas, Matplotlib, scikit-learn
 
 ## Application of referenced thermodynamic integration to Bayesian model selection
 
@@ -54,37 +39,27 @@ Evaluating normalising constants is important across a range of topics in statis
 
 Published in PLoS ONE.
 
-[paper](https://doi.org/10.1371/journal.pone.0289889)
+[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://doi.org/10.1371/journal.pone.0289889)
 
-[code](https://github.com/mrc-ide/referenced-TI)
+[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/mrc-ide/referenced-TI)
 
-
-tech: Python, Stan, NumPyro, Pandas, Matplotlib, scikit-learn, SciPy
-
-
+Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Stan, NumPyro, Pandas, Matplotlib, scikit-learn, SciPy
 
 ## Peer-group Behaviour Analytics of Windows Authentications Events Using Hierarchical Bayesian Modelling
 
 Cyber-security analysts face an increasingly large number of alerts received on any given day. This is mainly due to the low precision of many existing methods to detect threats, producing a substantial number of false positives. Usually, several signature-based and statistical anomaly detectors are implemented within a computer network to detect threats. Recent efforts in User and Entity Behaviour Analytics modelling shed a light on how to reduce the burden on Security Operations Centre analysts through a better understanding of peer-group behaviour. Statistically, the challenge consists of accurately grouping users with similar behaviour, and then identifying those who deviate from their peers. This work proposes a new approach for peer-group behaviour modelling of Windows authentication events, using principles from hierarchical Bayesian models. This is a two-stage approach where in the first stage, peer-groups are formed based on a data-driven method, given the user's individual authentication pattern. In the second stage, the counts of users authenticating to different entities are aggregated by an hour and modelled by a Poisson distribution, taking into account seasonality components and hierarchical principles. Finally, we compare grouping users based on their human resources records against the data-driven methods and provide empirical evidence about alert reduction on a real-world authentication data set from a large enterprise network.
 
-
 Presented at the AAAI 2023 Artificial Intelligence for Cybersecurity workshop.
 
 Preprint available on ArXiv.
 
-[paper](https://arxiv.org/abs/2209.09769)
+[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://arxiv.org/abs/2209.09769)
 
 Code and data proprietary and could not be shared.
 
-tech: Python, NumPyro, Pandas, Matplotlib, Spark, SQL
-
-
-
+Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, NumPyro, Pandas, Matplotlib, Spark, SQL
 
 *The projects listed below are projects I substantially contributed to but did not lead.*
-
-
-
 
 ## Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals
 
@@ -92,28 +67,23 @@ The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Gamma variant o
 
 Published in Nature Medicine.
 
-[paper](https://www.nature.com/articles/s41591-022-01807-1)
+[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://www.nature.com/articles/s41591-022-01807-1)
 
-[code](https://github.com/CADDE-CENTRE/covid19_brazil_hfr)
+[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/CADDE-CENTRE/covid19_brazil_hfr)
 
-tech: R, Stan, ggplot
-
-
+Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): R, Stan, ggplot
 
 ## The association between mechanical ventilator compatible bed occupancy and mortality risk in intensive care patients with COVID-19: a national retrospective cohort study
 
 The literature paints a complex picture of the association between mortality risk and ICU strain. In this study, we sought to determine if there is an association between mortality risk in intensive care units (ICU) and occupancy of beds compatible with mechanical ventilation, as a proxy for strain. A national retrospective observational cohort study of 89 English hospital trusts (i.e. groups of hospitals functioning as single operational units). Seven thousand one hundred thirty-three adults admitted to an ICU in England between 2 April and 1 December, 2020 (inclusive), with presumed or confirmed COVID-19, for whom data was submitted to the national surveillance programme and met study inclusion criteria. A Bayesian hierarchical approach was used to model the association between hospital trust level (mechanical ventilation compatible), bed occupancy, and in-hospital all-cause mortality. Results were adjusted for unit characteristics (pre-pandemic size), individual patient-level demographic characteristics (age, sex, ethnicity, deprivation index, time-to-ICU admission), and recorded chronic comorbidities (obesity, diabetes, respiratory disease, liver disease, heart disease, hypertension, immunosuppression, neurological disease, renal disease). One hundred thirty-five thousand six hundred patient days were observed, with a mortality rate of 19.4 per 1000 patient days. Adjusting for patient-level factors, mortality was higher for admissions during periods of high occupancy (> 85% occupancy versus the baseline of 45 to 85%) [OR 1.23 (95% posterior credible interval (PCI): 1.08 to 1.39)]. In contrast, mortality was decreased for admissions during periods of low occupancy (< 45% relative to the baseline) [OR 0.83 (95% PCI 0.75 to 0.94)]. Increasing occupancy of beds compatible with mechanical ventilation, a proxy for operational strain, is associated with a higher mortality risk for individuals admitted to ICU. Further research is required to establish if this is a causal relationship or whether it reflects strain on other operational factors such as staff. If causal, the result highlights the importance of strategies to keep ICU occupancy low to mitigate the impact of this type of resource saturation.
 
-
 Published in BMC Medicine.
 
-[paper](https://doi.org/10.1186/s12916-021-02096-0)
+[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://doi.org/10.1186/s12916-021-02096-0)
 
 Code and data proprietary and could not be shared.
 
-tech: R, Stan, brms, ggplot
-
-
+Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): R, Stan, brms, ggplot
 
 ## Use of Contrastive Learning to Predict the Prevalence of Malaria in Africa Using Satellite Imagery
 
@@ -121,4 +91,4 @@ In 2021, there were 247 million malaria cases globally, with the majority of cas
 
 paper in preparation
 
-tech: Python, Tensorflow, PyTorch, NumPyro, Google Earth Engine, gdal, weights&biases
+Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Tensorflow, PyTorch, NumPyro, Google Earth Engine, gdal, weights&biases
