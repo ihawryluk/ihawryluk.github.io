@@ -11,7 +11,7 @@ redirect_from:
 My CV can also be downloaded [here](https://ihawryluk.github.io/files/cv_hawryluk_23062024.pdf).
 
 
-## Core Skills
+## Core Skills <img src="https://img.icons8.com/?size=100&id=k4pDhxkT8V6A&format=png&color=000000" width="30" height="30" alt="Skills"/>
 
 **Programming:**  
 Python, C++, R, Matlab, Mathematica, Bash, Git, SQL, Spark
@@ -24,7 +24,7 @@ Machine Learning, Deep Learning, Data Science, Probabilistic Programming,
 Bayesian Statistics, Mathematical Modelling, Computer Vision
 
 
-## Education
+## Education <img src="https://img.icons8.com/?size=100&id=23318&format=png&color=000000" width="30" height="30" alt="Graduate"/>
 
 * PhD in Epidemiology of Infectious Diseases, Imperial College London, UK, 2020-2024
 * MRes in Epidemiology of Infectious Diseases, Imperial College London, UK, 2019-2020
@@ -32,7 +32,7 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 * BSc in Mathematics, University of Wroclaw, Poland, 2012-2015
 
 
-## Work experience
+## Work experience <img src="https://img.icons8.com/?size=100&id=n0X3RRyAOlyK&format=png&color=000000" width="30" height="30" alt="Programmer Female"/>
 
 **May 2024 - present**  
 **Postdoctoral Research Associate at Imperial College London**, ongoing, UK  
@@ -71,7 +71,7 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 - Processing and development of a segmentation pipeline for brain MRI scans
 
 
-## Languages
+## Languages <img src="https://img.icons8.com/?size=100&id=10lwQw8Al1lP&format=png&color=000000" width="30" height="30" alt="Languages"/>
 
 - English: fluent
 - Polish: native
@@ -79,7 +79,7 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 - Finnish, Spanish: basic
 
 
-## Scholarships and Awards
+## Scholarships and Awards <img src="https://img.icons8.com/?size=100&id=mvh2IUZr5AXR&format=png&color=000000" width="30" height="30" alt="Awards"/>
 
 **London, 2019-2024**  
 Medical Research Council Fund, Imperial College London  
@@ -101,7 +101,7 @@ University's Principal Scholarship for most talented students
 
 
 
-## Activities
+## Activities <img src="https://img.icons8.com/?size=100&id=71188&format=png&color=000000" width="30" height="30" alt="University"/>
 
 **2021-2022**  
 Co-organiser at the Earth Observation Network of Excellence of Imperial College London
@@ -123,7 +123,7 @@ Teaching Assistant at a Python programming workshop for medical students
 
 
   
-## Talks
+## Talks <img src="https://img.icons8.com/?size=100&id=b3pmakv2kPti&format=png&color=000000" width="30" height="30" alt="Presentation"/>
 
 **May 2024**  
 Machine Learning and Global Health network meeting (talk)
@@ -146,7 +146,7 @@ Uncertainty in Artificial Intelligence conference (talk)
 Science: Polish Perspectives 2021 conference (talk)
 
   
-## Selected Publications
+## Selected Publications <img src="https://img.icons8.com/?size=100&id=NdcRE4GyXwnl&format=png&color=000000" width="30" height="30" alt="Magazine"/>
 
 1. I. Hawryluk et al. Inference of COVID-19 epidemiological distributions from Brazilian hospital data. *Journal of The Royal Society Interface*, 17(172):20200596, 2020. [URL](https://doi.org/10.1098/rsif.2020.0596)
 
