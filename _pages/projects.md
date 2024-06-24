@@ -4,7 +4,8 @@ title: "Projects"
 author_profile: true
 ---
 
-## Phd Thesis
+## Phd Thesis: Statistical methods for characterising the severity of an emerging pathogen: case studies of the COVID-19 pandemic
+
 My PhD thesis can be viewed [here](https://github.com/ihawryluk/phd_thesis/blob/main/hawryluk_phd_thesis.pdf).
 
 *The three following projects listed below are part of my PhD thesis.*
