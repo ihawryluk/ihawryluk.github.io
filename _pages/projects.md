@@ -15,11 +15,11 @@ Updating observations of a signal due to the delays in the measurement process i
 
 Published in Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence.
 
-[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://proceedings.mlr.press/v161/hawryluk21a.html)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://proceedings.mlr.press/v161/hawryluk21a.html)
 
-[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/ihawryluk/GP_nowcasting)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/ihawryluk/GP_nowcasting)
 
-Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Stan, R, Pandas, Matplotlib
+Tech: Python, Stan, R, Pandas, Matplotlib <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
 
 ## Inference of COVID-19 epidemiological distributions from Brazilian hospital data
 
@@ -27,11 +27,11 @@ Knowing COVID-19 epidemiological distributions, such as the time from patient ad
 
 Published in Journal of the Royal Society Interface.
 
-[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0596)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0596)
 
-[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/mrc-ide/Brazil_COVID19_distributions)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/mrc-ide/Brazil_COVID19_distributions)
 
-Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Stan, R, Pandas, Matplotlib, scikit-learn
+Tech: Python, Stan, R, Pandas, Matplotlib, scikit-learn <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
 
 ## Application of referenced thermodynamic integration to Bayesian model selection
 
@@ -39,11 +39,11 @@ Evaluating normalising constants is important across a range of topics in statis
 
 Published in PLoS ONE.
 
-[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://doi.org/10.1371/journal.pone.0289889)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://doi.org/10.1371/journal.pone.0289889)
 
-[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/mrc-ide/referenced-TI)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/mrc-ide/referenced-TI)
 
-Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Stan, NumPyro, Pandas, Matplotlib, scikit-learn, SciPy
+Tech : Python, Stan, NumPyro, Pandas, Matplotlib, scikit-learn, SciPy <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
 
 ## Peer-group Behaviour Analytics of Windows Authentications Events Using Hierarchical Bayesian Modelling
 
@@ -53,25 +53,26 @@ Presented at the AAAI 2023 Artificial Intelligence for Cybersecurity workshop.
 
 Preprint available on ArXiv.
 
-[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://arxiv.org/abs/2209.09769)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://arxiv.org/abs/2209.09769)
 
 Code and data proprietary and could not be shared.
 
-Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, NumPyro, Pandas, Matplotlib, Spark, SQL
+Tech: Python, NumPyro, Pandas, Matplotlib, Spark, SQL <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
 
 *The projects listed below are projects I substantially contributed to but did not lead.*
 
 ## Spatial and temporal fluctuations in COVID-19 fatality rates in Brazilian hospitals
 
-The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Gamma variant of concern has spread rapidly across Brazil since late 2020, causing substantial infection and death waves. Here we used individual-level patient records after hospitalization with suspected or confirmed coronavirus disease 2019 (COVID-19) between 20 January 2020 and 26 July 2021 to document temporary, sweeping shocks in hospital fatality rates that followed the spread of Gamma across 14 state capitals, during which typically more than half of hospitalized patients aged 70 years and older died. We show that such extensive shocks in COVID-19 in-hospital fatality rates also existed before the detection of Gamma. Using a Bayesian fatality rate model, we found that the geographic and temporal fluctuations in Brazil’s COVID-19 in-hospital fatality rates were primarily associated with geographic inequities and shortages in healthcare capacity. We estimate that approximately half of the COVID-19 deaths in hospitals in the 14 cities could have been avoided without pre-pandemic geographic inequities and without pandemic healthcare pressure. Our results suggest that investments in healthcare resources, healthcare optimization and pandemic preparedness are critical to minimize population-wide mortality and morbidity caused by highly transmissible and deadly pathogens such as SARS-CoV-2, especially in low- and middle-income countries.
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Gamma variant of concern has spread rapidly across Brazil since late 2020, causing substantial infection and death waves. Here we used individual-level patient records after hospitalization with suspected or confirmed coronavirus disease 2019 (COVID-19) between 20 January 2020 and 26 July 2021 to document temporary, sweeping shocks in hospital fatality rates that followed the spread of Gamma across 14 state capitals, during which typically more than half of hospitalized patients aged 70 years and older died. We show that such extensive shocks in COVID-19 in-hospital fatality rates also existed before the detection of Gamma, but that they were less synchronized and less intense. We document the persistence of above-baseline hospital fatality rates for Gamma across sex, age, comorbidities and hospital regions and identify extensive changes in fatality rates for non-COVID-19 acute respiratory distress syndrome and sepsis, indicating a substantial breakdown of healthcare services. Our findings suggest that transient extreme mortality shocks can occur when health services are strained and that this risk can be exacerbated by the presence of variants of concern. Our results emphasize the need for effective measures
+ to minimize population-wide mortality and morbidity caused by highly transmissible and deadly pathogens such as SARS-CoV-2, especially in low- and middle-income countries.
 
 Published in Nature Medicine.
 
-[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://www.nature.com/articles/s41591-022-01807-1)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://www.nature.com/articles/s41591-022-01807-1)
 
-[Code on GitHub ![GitHub](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)](https://github.com/CADDE-CENTRE/covid19_brazil_hfr)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/CADDE-CENTRE/covid19_brazil_hfr)
 
-Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): R, Stan, ggplot
+Tech: R, Stan, ggplot <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
 
 ## The association between mechanical ventilator compatible bed occupancy and mortality risk in intensive care patients with COVID-19: a national retrospective cohort study
 
@@ -79,11 +80,11 @@ The literature paints a complex picture of the association between mortality ris
 
 Published in BMC Medicine.
 
-[Read the publication ![Document](https://img.icons8.com/?size=100&id=37917&format=png&color=000000)](https://doi.org/10.1186/s12916-021-02096-0)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://doi.org/10.1186/s12916-021-02096-0)
 
 Code and data proprietary and could not be shared.
 
-Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): R, Stan, brms, ggplot
+Tech: R, Stan, brms, ggplot <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
 
 ## Use of Contrastive Learning to Predict the Prevalence of Malaria in Africa Using Satellite Imagery
 
@@ -91,4 +92,4 @@ In 2021, there were 247 million malaria cases globally, with the majority of cas
 
 paper in preparation
 
-Tech ![Tech](https://img.icons8.com/?size=100&id=N5jTjpBKVT8t&format=png&color=000000): Python, Tensorflow, PyTorch, NumPyro, Google Earth Engine, gdal, weights&biases
+Tech: Python, Tensorflow, PyTorch, NumPyro, Google Earth Engine, gdal, weights&biases <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
