@@ -1,4 +1,3 @@
----
 permalink: /projects/
 title: "Projects"
 author_profile: true
@@ -15,11 +14,11 @@ Updating observations of a signal due to the delays in the measurement process i
 
 Published in Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence.
 
-[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://proceedings.mlr.press/v161/hawryluk21a.html)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="24" height="24" alt="Document"/>](https://proceedings.mlr.press/v161/hawryluk21a.html)
 
-[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/ihawryluk/GP_nowcasting)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="24" height="24" alt="GitHub"/>](https://github.com/ihawryluk/GP_nowcasting)
 
-Tech: Python, Stan, R, Pandas, Matplotlib <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
+Tech: Python, Stan, R, Pandas, Matplotlib <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="24" height="24" alt="Tech"/>
 
 ## Inference of COVID-19 epidemiological distributions from Brazilian hospital data
 
@@ -27,11 +26,11 @@ Knowing COVID-19 epidemiological distributions, such as the time from patient ad
 
 Published in Journal of the Royal Society Interface.
 
-[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0596)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="24" height="24" alt="Document"/>](https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0596)
 
-[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/mrc-ide/Brazil_COVID19_distributions)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="24" height="24" alt="GitHub"/>](https://github.com/mrc-ide/Brazil_COVID19_distributions)
 
-Tech: Python, Stan, R, Pandas, Matplotlib, scikit-learn <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
+Tech: Python, Stan, R, Pandas, Matplotlib, scikit-learn <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="24" height="24" alt="Tech"/>
 
 ## Application of referenced thermodynamic integration to Bayesian model selection
 
@@ -39,11 +38,11 @@ Evaluating normalising constants is important across a range of topics in statis
 
 Published in PLoS ONE.
 
-[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://doi.org/10.1371/journal.pone.0289889)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="24" height="24" alt="Document"/>](https://doi.org/10.1371/journal.pone.0289889)
 
-[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/mrc-ide/referenced-TI)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="24" height="24" alt="GitHub"/>](https://github.com/mrc-ide/referenced-TI)
 
-Tech : Python, Stan, NumPyro, Pandas, Matplotlib, scikit-learn, SciPy <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
+Tech : Python, Stan, NumPyro, Pandas, Matplotlib, scikit-learn, SciPy <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="24" height="24" alt="Tech"/>
 
 ## Peer-group Behaviour Analytics of Windows Authentications Events Using Hierarchical Bayesian Modelling
 
@@ -53,11 +52,11 @@ Presented at the AAAI 2023 Artificial Intelligence for Cybersecurity workshop.
 
 Preprint available on ArXiv.
 
-[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://arxiv.org/abs/2209.09769)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="24" height="24" alt="Document"/>](https://arxiv.org/abs/2209.09769)
 
 Code and data proprietary and could not be shared.
 
-Tech: Python, NumPyro, Pandas, Matplotlib, Spark, SQL <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
+Tech: Python, NumPyro, Pandas, Matplotlib, Spark, SQL <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="24" height="24" alt="Tech"/>
 
 *The projects listed below are projects I substantially contributed to but did not lead.*
 
@@ -68,11 +67,11 @@ The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) Gamma variant o
 
 Published in Nature Medicine.
 
-[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://www.nature.com/articles/s41591-022-01807-1)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="24" height="24" alt="Document"/>](https://www.nature.com/articles/s41591-022-01807-1)
 
-[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="16" height="16" alt="GitHub"/>](https://github.com/CADDE-CENTRE/covid19_brazil_hfr)
+[Code on GitHub <img src="https://img.icons8.com/?size=30&id=AZOZNnY73haj&format=png&color=000000" width="24" height="24" alt="GitHub"/>](https://github.com/CADDE-CENTRE/covid19_brazil_hfr)
 
-Tech: R, Stan, ggplot <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
+Tech: R, Stan, ggplot <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="24" height="24" alt="Tech"/>
 
 ## The association between mechanical ventilator compatible bed occupancy and mortality risk in intensive care patients with COVID-19: a national retrospective cohort study
 
@@ -80,11 +79,11 @@ The literature paints a complex picture of the association between mortality ris
 
 Published in BMC Medicine.
 
-[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="16" height="16" alt="Document"/>](https://doi.org/10.1186/s12916-021-02096-0)
+[Read the publication <img src="https://img.icons8.com/?size=30&id=37917&format=png&color=000000" width="24" height="24" alt="Document"/>](https://doi.org/10.1186/s12916-021-02096-0)
 
 Code and data proprietary and could not be shared.
 
-Tech: R, Stan, brms, ggplot <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
+Tech: R, Stan, brms, ggplot <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="24" height="24" alt="Tech"/>
 
 ## Use of Contrastive Learning to Predict the Prevalence of Malaria in Africa Using Satellite Imagery
 
@@ -92,4 +91,4 @@ In 2021, there were 247 million malaria cases globally, with the majority of cas
 
 paper in preparation
 
-Tech: Python, Tensorflow, PyTorch, NumPyro, Google Earth Engine, gdal, weights&biases <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="16" height="16" alt="Tech"/>
+Tech: Python, Tensorflow, PyTorch, NumPyro, Google Earth Engine, gdal, weights&biases <img src="https://img.icons8.com/?size=30&id=N5jTjpBKVT8t&format=png&color=000000" width="24" height="24" alt="Tech"/>
