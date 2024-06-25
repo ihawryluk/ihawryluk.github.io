@@ -39,7 +39,7 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 - Research involves working on a Deep Learning modelling for speech
 - Finetuning and running language classification models on audio files
 
-**June 2022 - Sept 2022**  
+**June 2022 - Sept 2022**
 **Data Science Research Intern at Securonix**, 3 months, remote  
 - Research internship in which I developed statistical methods for anomaly detection in cybersecurity.
 - Gained experience using AWS and working with Big Data using Spark

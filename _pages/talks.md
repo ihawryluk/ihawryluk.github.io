@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and presentations <img src="https://img.icons8.com/?size=100&id=b3pmakv2kPti&format=png&color=000000" width="30" height="30" alt="Presentation"/>"
 permalink: /talks/
 author_profile: true
 ---
