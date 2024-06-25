@@ -81,45 +81,32 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 
 ## Scholarships and Awards <img src="https://img.icons8.com/?size=100&id=mvh2IUZr5AXR&format=png&color=000000" width="30" height="30" alt="Awards"/>
 
-**London, 2019-2024**  
-Medical Research Council Fund, Imperial College London  
+**London, 2019-2024**  Medical Research Council Fund, Imperial College London  
 *Funding for the 1+3 PhD training programme in Epidemiology and Control of Infectious Disease*
 
-**London, 2020**  
-Prize for Excellence in Research  
-*Award for outstanding achievements in the MRes course.*
+**London, 2020**  Prize for Excellence in Research for outstanding achievements in MRes course
 
-**Helsinki, 2017**  
-The Mathematics and Science Fund  
-*Award for students of Mathematics or Science with outstanding achievements in studies*
+**Helsinki, 2017**  The Mathematics and Science Fund award for outstanding achievements in studies
 
-**Wroclaw, 2012-2015**  
-University's Principal Scholarship for most talented students
+**Wroclaw, 2012-2015**  University's Principal Scholarship for most talented students
 
-**Wroclaw, 2012-2015**  
-"Mathematics without borders" scholarship for most talented students
+**Wroclaw, 2012-2015**  "Mathematics without borders" scholarship for most talented students
 
 
 
 ## Activities <img src="https://img.icons8.com/?size=100&id=71188&format=png&color=000000" width="30" height="30" alt="University"/>
 
-**2021-2022**  
-Co-organiser at the Earth Observation Network of Excellence of Imperial College London
+**2021-2022**  Co-organiser at the Earth Observation Network of Excellence of Imperial College London
 
-**Nov 2021**  
-Python demonstrator at GirlsWhoML Machine Learning workshop
+**Nov 2021**  Python demonstrator at GirlsWhoML Machine Learning workshop
 
-**Jun-Aug 2021**  
-Supervision of a MSc student summer research project on Computer Vision and Deep Learning
+**Jun-Aug 2021**  Supervision of a MSc student summer research project on Computer Vision and Deep Learning
 
-**2020-2021**  
-Personal Tutor for Postgraduate students
+**2020-2021**  Personal Tutor for Postgraduate students
 
-**2019-2022**  
-Postgraduate student representative
+**2019-2022**  Postgraduate student representative
 
-**Nov 2019**  
-Teaching Assistant at a Python programming workshop for medical students
+**Nov 2019**  Teaching Assistant at a Python programming workshop for medical students
 
 
   
