@@ -32,43 +32,51 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 * BSc in Mathematics, University of Wroclaw, Poland, 2012-2015
 
 
-## Work experience <img src="https://img.icons8.com/?size=100&id=n0X3RRyAOlyK&format=png&color=000000" width="30" height="30" alt="Programmer Female"/>
+
+## Research Employment <img src="https://img.icons8.com/?size=100&id=n0X3RRyAOlyK&format=png&color=000000" width="30" height="30" alt="Programmer Female"/>
 
 **May 2024 - present**  
-**Postdoctoral Research Associate at Imperial College London**, ongoing, UK  
-- Research involves working on a Deep Learning modelling for speech
-- Finetuning and running language classification models on audio files
-
-**June 2022 - Sept 2022**
-**Data Science Research Intern at Securonix**, 3 months, remote  
-- Research internship in which I developed statistical methods for anomaly detection in cybersecurity.
-- Gained experience using AWS and working with Big Data using Spark
-- Developed a hierarchical Bayesian model for behaviours analytics and anomaly flagging
+**Postdoctoral Research Associate at Imperial College London**  
+ongoing, UK  
+- Research involves working on a Deep Learning modelling for speech.  
+- Finetuning and running language classification models on audio files.  
 
 **Jan 2021 - May 2021**  
-**Researcher in the Imperial College London COVID-19 response team**, 5 months, UK  
-- I undertook a studies break to support the research on COVID-19 pandemic in Brazil and in the UK.
-- Development of a Bayesian model for inference of hospitalisation distributions from large Brazilian database
-- New method of nowcasting COVID-19 deaths using Gaussian Processes
-- Statistical analysis of bed occupancy and mortality risks in patients with COVID-19 in UK
+**Researcher in the Imperial College London COVID-19 response team**  
+5 months, UK  
+- Undertook a studies break to support the research on COVID-19 pandemic in Brazil and in the UK.  
+- Worked under very tight timelines for deliverables as my methods were feeding into big models informing governments.  
+- Collaborated closely with the other members of the team to ensure timely delivery.  
+- Delivered data and machine learning models necessary for pandemic spread estimation.  
+
+## Data Science Employment <img src="https://img.icons8.com/?size=100&id=JQbiuA6flrXj&format=png&color=000000" width="30" height="30" alt="Data Scientist"/>
+
+**June 2022 - Sept 2022**  
+**Data Science Research Intern at Securonix**  
+3 months, remote  
+- Quickly got up to speed with problems occurring in cybersecurity, a field new to me.  
+- Overcame challenges posed by big, unstructured data sets hosted on AWS servers.  
+- Delivered a new Bayesian statistical model for anomalous behaviour detection, which I also wrote up as a preprint and presented at an international AI conference.  
+- The outcomes opened up a new direction for the team to explore in the future.  
 
 **Apr 2018 - June 2019**  
-**Data Scientist at Creme Global**, 14 months, Ireland  
-- Developing new and existing statistical methods, performing data analyses
-- Working closely with the clients to deliver reports and software customisation
-- Analyses of exposures to harmful compounds in foods and cosmetics using consumption surveys and Monte Carlo simulations
-- Working closely with the Software Engineering team, new software design
+**Data Scientist at Creme Global**  
+14 months, Ireland  
+- Using in-house software and bespoke algorithms, I delivered complex data analysis reports to the clients, taking a proactive approach to solving their problems.  
+- Took full ownership and leadership over the projects, working closely with the clients.  
+- Wrote project proposals and software specifications and worked with the Software Engineering team to deliver desired products to the clients.  
 
 **Dec 2017 - Apr 2018**  
-**Data Scientist at LetsGetChecked**, 4 months, Ireland  
-- Analysis of clinical numeric and text data
-- Market research, marketing data analyses
+**Data Scientist at LetsGetChecked**  
+4 months, Ireland  
+- Performed analyses of clinical and marketing data.  
+- Conducted market research and suggested new services the company could offer.  
 
 **June - Sept 2017**  
-**Research Scientist at VTT Technical Research Centre of Finland**, 4 months, Finland  
-- Clinical data analysis, machine learning models, medical image processing.
-- Development of a machine learning model for heart attack survival prediction
-- Processing and development of a segmentation pipeline for brain MRI scans
+**Research Scientist at VTT Technical Research Centre of Finland**  
+4 months, Finland  
+- Self-learned and performed clinical data analysis, machine learning models, and medical image processing.  
+- Developed a machine learning model for heart attack survival prediction, collaborating with medical doctors at a hospital.  
 
 
 ## Languages <img src="https://img.icons8.com/?size=100&id=10lwQw8Al1lP&format=png&color=000000" width="30" height="30" alt="Languages"/>
