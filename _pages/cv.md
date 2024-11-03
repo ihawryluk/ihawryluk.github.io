@@ -33,23 +33,11 @@ Bayesian Statistics, Mathematical Modelling, Computer Vision
 
 
 
-## Research Employment <img src="https://img.icons8.com/?size=100&id=n0X3RRyAOlyK&format=png&color=000000" width="30" height="30" alt="Programmer Female"/>
-
-**May 2024 - present**  
-**Postdoctoral Research Associate at Imperial College London**  
-ongoing, UK  
-- Research involves working on a Deep Learning modelling for speech.  
-- Finetuning and running language classification models on audio files.  
-
-**Jan 2021 - May 2021**  
-**Researcher in the Imperial College London COVID-19 response team**  
-5 months, UK  
-- Undertook a studies break to support the research on COVID-19 pandemic in Brazil and in the UK.  
-- Worked under very tight timelines for deliverables as my methods were feeding into big models informing governments.  
-- Collaborated closely with the other members of the team to ensure timely delivery.  
-- Delivered data and machine learning models necessary for pandemic spread estimation.  
-
 ## Data Science Employment <img src="https://img.icons8.com/?size=100&id=JQbiuA6flrXj&format=png&color=000000" width="30" height="30" alt="Data Scientist"/>
+
+**Nov 2024 - current**  
+**Data Science at London Ambulance Service NHS Trust**  
+ongoing, UK
 
 **June 2022 - Sept 2022**  
 **Data Science Research Intern at Securonix**  
@@ -77,6 +65,24 @@ ongoing, UK
 4 months, Finland  
 - Self-learned and performed clinical data analysis, machine learning models, and medical image processing.  
 - Developed a machine learning model for heart attack survival prediction, collaborating with medical doctors at a hospital.  
+
+
+
+## Research Employment <img src="https://img.icons8.com/?size=100&id=n0X3RRyAOlyK&format=png&color=000000" width="30" height="30" alt="Programmer Female"/>
+
+**May 2024 - present**  
+**Postdoctoral Research Associate at Imperial College London**  
+ongoing, UK  
+- Research involves working on a Deep Learning modelling for speech.  
+- Finetuning and running language classification models on audio files.  
+
+**Jan 2021 - May 2021**  
+**Researcher in the Imperial College London COVID-19 response team**  
+5 months, UK  
+- Undertook a studies break to support the research on COVID-19 pandemic in Brazil and in the UK.  
+- Worked under very tight timelines for deliverables as my methods were feeding into big models informing governments.  
+- Collaborated closely with the other members of the team to ensure timely delivery.  
+- Delivered data and machine learning models necessary for pandemic spread estimation.  
 
 
 ## Languages <img src="https://img.icons8.com/?size=100&id=10lwQw8Al1lP&format=png&color=000000" width="30" height="30" alt="Languages"/>
