@@ -18,13 +18,11 @@ Outside of academia I've worked as a Data Scientist in few different industries:
 Work and research interests
 ======
 - Machine Learning
-- Deep Learning
 - Modern Statistics
 - Bayesian Statistics
 - Mathematical Modelling
 - Probabilistic Programming
 - Gaussian Processes
-- Computer Vision
 - Anomaly detection
 - Public Health
 - Infectious Disease Epidemics
