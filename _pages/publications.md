@@ -26,10 +26,13 @@ author_profile: true
 
 ## Other Publications:
 
+
 - H. Wilde, T.A. Mellan, I. Hawryluk, et al. The association between mechanical ventilator compatible bed occupancy and mortality risk in intensive care patients with COVID-19: a national retrospective cohort study. *BMC Medicine*, 2021. [URL](https://doi.org/10.1186/s12916-021-02096-0)
 
 - N. R. Faria et al. Genomics and epidemiology of the P.1 SARS-CoV-2 lineage in Manaus, Brazil. *Science*, 372, 815-821, 2021. [URL](https://doi.org/10.1126/science.abh2644)
 
 - H.J.T. Unwin, S. Mishra, V.C. Bradley, et al. State-level tracking of COVID-19 in the United States. *Nature Communications*, 11, 6189, 2020. [URL](https://doi.org/10.1038/s41467-020-19652-6)
 
-- T.A. Mellan, H.H. Hoeltgebaum, S. Mishra et al. Estimating COVID-19 cases and reproduction number in Brazil. *Imperial College London*, 2020. [URL](https://doi.org/10.25561/78872).
+- T.A. Mellan, H.H. Hoeltgebaum, S. Mishra et al. Estimating COVID-19 cases and reproduction number in Brazil. *Imperial College London*, 2020. [URL](https://doi.org/10.25561/78872)
+
+- T.B. Hallett et al. Estimates of resource use in the public-sector health-care system and the effect of strengthening health-care services in Malawi during 2015–19: a modelling study (Thanzi La Onse). *The Lancet Global Health*, 2024. [URL](https://doi.org/10.1016/S2214-109X(24)00413-3)
